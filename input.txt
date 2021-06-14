@@ -1,0 +1,39 @@
+main{
+int ab=5;
+
+print(ab);
+int b=ab+4;
+print(b);
+
+if b>ab{
+1+2;
+}
+
+else{
+2+12;
+}
+string c = "abc";
+print(c);
+
+int a=7;
+while a -- > 3{
+2+4
+} 
+
+#single;
+from 2 to 6 inc 1{
+1+3
+}
+
+SIN(30);
+LOG10(100);
+LOG(16);
+COS(60);
+TAN(45);
+
+MAX(2,3);
+PRIME(5);
+PRIME(10);
+
+FACT(3);
+}
